@@ -1,5 +1,6 @@
 # RNAseq_processing
-Currently repo consists of (predominantly) codes for RNAseq processing for thesis project, as part of this manuscript [see preprint](~https://www.biorxiv.org/content/10.1101/2024.05.13.590087v1~). Will update for more generalized workflows in the future.
+Currently repo consists of (predominantly) codes for RNAseq processing for thesis project, as part of this [preprint](https://www.biorxiv.org/content/10.1101/2024.05.13.590087v1) (See Figure 1). 
+Will update for more generalized workflows in the future.
 
 ---
 
