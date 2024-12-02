@@ -1,0 +1,10 @@
+ref_dir: "path/to/references"
+builds:
+  mm39:
+    GTF: "gencode.vM32.primary_assembly.annotation.gtf"
+    fasta: "GRCm39.primary_assembly.genome.fa"
+    fastq: "path/to/_fastq/mm39"
+  galGal6:
+    GTF: "galGal6.GRCg7b.109.gtf"
+    fasta: "galGal6.GRCg7b.dna.toplevel.fa"
+    fastq: "path/to/_fastq/galGal6"
